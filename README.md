@@ -9,9 +9,8 @@ https://pypi.org/
 https://itproger.com/spravka/python
 
 ## Різне:
-https://python-scripts.com/
-19 бесплатных онлайн-игр и сервисов, обучающих программированию https://www.profguide.io/article/19_programming_game_resorces.html
-
++ https://python-scripts.com/
++ 19 бесплатных онлайн-игр и сервисов, обучающих программированию https://www.profguide.io/article/19_programming_game_resorces.html
 + Сodewars: https://www.codewars.com/
 + Project Euler: https://projecteuler.net/
 + Leetcode: https://leetcode.com/
