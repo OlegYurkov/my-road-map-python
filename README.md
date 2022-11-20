@@ -39,8 +39,13 @@ https://youtube.com/playlist?list=PLfnFOImnyWRUe1cr2Qmhk6AWcfuNYv2cz
 https://youtube.com/playlist?list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa
 
 + Python Hub Studio https://www.youtube.com/c/PythonHubStudio/featured
+
++ https://www.youtube.com/@pylounge
+
 + PythonToday https://www.youtube.com/c/PythonToday
+
 + ZProger [ IT ] https://www.youtube.com/c/ZProgerIT/featured
+
 + CodeWriter https://www.youtube.com/c/CodeWriter/featured
 
 _____
