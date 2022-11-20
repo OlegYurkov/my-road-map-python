@@ -40,7 +40,7 @@ https://youtube.com/playlist?list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa
 
 + Python Hub Studio https://www.youtube.com/c/PythonHubStudio/featured
 
-+ https://www.youtube.com/@pylounge
++ PyLounge - программирование на Python и всё о IT https://www.youtube.com/@pylounge
 
 + PythonToday https://www.youtube.com/c/PythonToday
 
