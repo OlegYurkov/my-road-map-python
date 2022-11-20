@@ -1,5 +1,6 @@
 # MY ROAD MAP TO PYTHON
 
+
 Візуалізація  https://v.imeg.top/uploads/2021/11/pyhon-guide.png
 
 ## Python Tutorial
