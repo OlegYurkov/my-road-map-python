@@ -49,21 +49,21 @@ https://github.com/SerVB/ami-prog-python
 https://github.com/uralbash/Python-lectures
 
 ## Telegram:
-https://t.me/chatpythonua 
-https://t.me/itProger_official
-https://t.me/zen_of_python
-https://t.me/phytonua
-https://t.me/python_devs
-https://t.me/ukraine_dot_py
-https://t.me/gitmedia
-https://t.me/it_sensei
-https://t.me/py_1000_prog
-https://t.me/PythonTAT
-https://t.me/vsc_help
-https://t.me/python_360
-https://t.me/python2day
-https://t.me/Githublib
-https://t.me/pythonist24
++ https://t.me/chatpythonua 
++ https://t.me/itProger_official
++ https://t.me/zen_of_python
++ https://t.me/phytonua
++ https://t.me/python_devs
++ https://t.me/ukraine_dot_py
++ https://t.me/gitmedia
++ https://t.me/it_sensei
++ https://t.me/py_1000_prog
++ https://t.me/PythonTAT
++ https://t.me/vsc_help
++ https://t.me/python_360
++ https://t.me/python2day
++ https://t.me/Githublib
++ https://t.me/pythonist24
 
 
 В процессе наполнения...
