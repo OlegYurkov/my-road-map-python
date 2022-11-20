@@ -3,9 +3,9 @@
 Візуалізація  https://v.imeg.top/uploads/2021/11/pyhon-guide.png
 
 ## Python Tutorial
-https://docs.python.org/3/tutorial/index.html
-https://pypi.org/
-https://itproger.com/spravka/python
++ https://docs.python.org/3/tutorial/index.html
++ https://pypi.org/
++ https://itproger.com/spravka/python
 
 ## Різне:
 + https://python-scripts.com/
