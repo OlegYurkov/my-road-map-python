@@ -1,6 +1,5 @@
 # MY ROAD MAP TO PYTHON
 
-
 Візуалізація  https://v.imeg.top/uploads/2021/11/pyhon-guide.png
 
 ## Python Tutorial
@@ -51,8 +50,9 @@ https://youtube.com/playlist?list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa
 _____
 
 ## GitHub:
-Базовый курс по Git
-https://youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR
++ Базовый курс по Git https://youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR
+
++ Описание разметки файла README.md https://github.com/GnuriaN/format-README
 
 ## Python лекции:
 + https://github.com/Nenu1985/py_lecs
