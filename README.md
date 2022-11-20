@@ -49,7 +49,7 @@ https://github.com/SerVB/ami-prog-python
 https://github.com/uralbash/Python-lectures
 
 Telegram:
-https://t.me/chatpythonua
+https://t.me/chatpythonua 
 https://t.me/itProger_official
 https://t.me/zen_of_python
 https://t.me/phytonua
