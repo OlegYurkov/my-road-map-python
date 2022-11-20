@@ -12,6 +12,12 @@ https://itproger.com/spravka/python
 https://python-scripts.com/
 19 бесплатных онлайн-игр и сервисов, обучающих программированию https://www.profguide.io/article/19_programming_game_resorces.html
 
+✅ Сodewars: https://www.codewars.com/
+✅ Project Euler: https://projecteuler.net/
+✅ Leetcode: https://leetcode.com/
+✅ Kaggle: https://www.kaggle.com/
+✅ Codeforces: https://codeforces.com/
+
 
 ## Курси:
 https://stepik.org/course/58852/promo
