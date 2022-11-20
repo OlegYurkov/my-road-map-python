@@ -34,11 +34,10 @@ https://youtube.com/playlist?list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa
 
 + Python Hub Studio https://www.youtube.com/c/PythonHubStudio/featured
 + PythonToday https://www.youtube.com/c/PythonToday
-
-## Різні фішки:
 + ZProger [ IT ] https://www.youtube.com/c/ZProgerIT/featured
 + CodeWriter https://www.youtube.com/c/CodeWriter/featured
 
+_____
 
 ## GitHub:
 Базовый курс по Git
