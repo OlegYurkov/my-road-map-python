@@ -33,10 +33,10 @@ https://youtube.com/playlist?list=PLfnFOImnyWRUe1cr2Qmhk6AWcfuNYv2cz
 https://youtube.com/playlist?list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa
 
 ## Різні фішки:
-ZProger [ IT ] https://www.youtube.com/c/ZProgerIT/featured
-CodeWriter https://www.youtube.com/c/CodeWriter/featured
-Python Hub Studio https://www.youtube.com/c/PythonHubStudio/featured
-PythonToday https://www.youtube.com/c/PythonToday
++ ZProger [ IT ] https://www.youtube.com/c/ZProgerIT/featured
++ CodeWriter https://www.youtube.com/c/CodeWriter/featured
++ Python Hub Studio https://www.youtube.com/c/PythonHubStudio/featured
++ PythonToday https://www.youtube.com/c/PythonToday
 
 
 ## GitHub:
@@ -44,9 +44,9 @@ PythonToday https://www.youtube.com/c/PythonToday
 https://youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR
 
 ## Python лекции:
-https://github.com/Nenu1985/py_lecs
-https://github.com/SerVB/ami-prog-python
-https://github.com/uralbash/Python-lectures
++ https://github.com/Nenu1985/py_lecs
++ https://github.com/SerVB/ami-prog-python
++ https://github.com/uralbash/Python-lectures
 
 ## Telegram:
 + https://t.me/chatpythonua 
