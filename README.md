@@ -17,26 +17,27 @@ https://stepik.org/course/58852/promo
 https://ru.code-basics.com/languages/python
 
 ## YouTube:
-Тимофей Хирьянов (2020 Практика программирования на Python 3)
++ Тимофей Хирьянов (2020 Практика программирования на Python 3)
 https://youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe
 
-Добрый, добрый Python - уроки для начинающих
++ Добрый, добрый Python - уроки для начинающих
 https://youtube.com/playlist?list=PLA0M1Bcd0w8yWHh2V70bTtbVxJICrnJHd
 
-Курс Python Стартовий Українською
++ Курс Python Стартовий Українською
 https://youtube.com/playlist?list=PLOlyZEVllXBHso6SasmoJdNWVO63573RN
 
-Открытые уроки Python Developer. Professional
++ Открытые уроки Python Developer. Professional
 https://youtube.com/playlist?list=PLfnFOImnyWRUe1cr2Qmhk6AWcfuNYv2cz
 
-Уроки Python для начинающих / Программирование на Питон с нуля
++ Уроки Python для начинающих / Программирование на Питон с нуля
 https://youtube.com/playlist?list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa
+
++ Python Hub Studio https://www.youtube.com/c/PythonHubStudio/featured
++ PythonToday https://www.youtube.com/c/PythonToday
 
 ## Різні фішки:
 + ZProger [ IT ] https://www.youtube.com/c/ZProgerIT/featured
 + CodeWriter https://www.youtube.com/c/CodeWriter/featured
-+ Python Hub Studio https://www.youtube.com/c/PythonHubStudio/featured
-+ PythonToday https://www.youtube.com/c/PythonToday
 
 
 ## GitHub:
